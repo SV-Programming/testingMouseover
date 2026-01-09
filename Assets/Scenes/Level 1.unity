@@ -383,7 +383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c02c5fdb33243224d9b6579e04fbbd56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HoverSceneChanger
-  hoverSound: {fileID: 8300000, guid: a07568ac38825574086a4021b7c41072, type: 3}
+  hoverSound: {fileID: 8300000, guid: 43a70aeb199a50f43a2c39deb6f22862, type: 3}
   transitionDelay: 0.5
   sceneToLoad: {fileID: 102900000, guid: af9c599d829b3ad459554721b0578b63, type: 3}
 --- !u!212 &1066390236
